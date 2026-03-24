@@ -52,14 +52,14 @@ cv:
           - Presented at the AppliBUGS workshop and accepted to the annual meeting of the French statistics society (SFDS)
 
     Languages:
-      - label: Arabic
-        details: Native speaker
+      - name: Arabic
+        summary: Native speaker
 
-      - label: French
-        details: Bilingual proficiency
+      - name: French
+        summary: Bilingual proficiency
 
-      - label: English
-        details: C2
+      - name: English
+        summary: C2
 
-      - label: Italian
-        details: Beginner
+      - name: Italian
+        summary: Beginner
