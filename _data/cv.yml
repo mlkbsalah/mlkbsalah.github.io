@@ -4,7 +4,7 @@ cv:
   email: malek.ben-salah@centralesupelec.fr
   location: Paris, France
   image: ""
-  summary: "PhD student in Machine Learning at Université Paris-Saclay, where I work at the intersection of causal inference, representation learning, and survival analysis. I'm particularly interested in probabilistic deep learning with a particular focus on calibration of survival models in counterfactual settings. I'm also very passionate about software engineering and open source, and bileive that code qulity and software are key to taking research to the next level.
+  summary: "PhD student in Machine Learning at Université Paris-Saclay, where I work at the intersection of causal inference, representation learning, and survival analysis. I'm particularly interested in probabilistic deep learning with a particular focus on calibration of survival models in counterfactual settings. I'm also very passionate about software engineering and open source, and bileive that code qulity and software are key to taking research to the next level."
 
   address:
     region: Ile-de-France
@@ -20,7 +20,6 @@ cv:
         end_date: 2028
         score: ""
 
-    Education:
       - institution: ENSTA Paris
         location: Palaiseau, France
         area: Mathematical engineering
@@ -36,7 +35,7 @@ cv:
         studyType: Master's degree
         start_date: 2023
         end_date: 2024
-        courses: "Brain computer interfaces, Causal inference, Biology, 
+        courses: "Brain computer interfaces, Causal inference, Biology"
 
     Experience:
       - company: CentraleSupélec
@@ -45,8 +44,8 @@ cv:
         start_date: 2024-04
         end_date: 2024-11
         summary: 
-          – Development of a tree-based conformal prediction algorithm for individual treatment effect estimation.
-          – Exploration of uncertainty quantification methods providing fast approximate conditional guarantees.
+          - Development of a tree-based conformal prediction algorithm for individual treatment effect estimation.
+          - Exploration of uncertainty quantification methods providing fast approximate conditional guarantees.
 
       - company: CentraleSupélec
         position: Reasearch intern
@@ -54,9 +53,9 @@ cv:
         start_date: 2022-06
         end_date: 2022-09
         highlights:
-          – Developed Bayesian Gaussian mixture models to characterize heterogeneous cardiovascular risk in pediatric cancer survivors.
-          – Implemented MCMC inference algorithms for parameter estimation and uncertainty quantification.
-          – Presented at the AppliBUGS workshop and acepted to the annual meeting of the French statistics society (SFDS)
+          - Developed Bayesian Gaussian mixture models to characterize heterogeneous cardiovascular risk in pediatric cancer survivors.
+          - Implemented MCMC inference algorithms for parameter estimation and uncertainty quantification.
+          - Presented at the AppliBUGS workshop and acepted to the annual meeting of the French statistics society (SFDS)
 
     # Awards:
     #   - title: Nobel Prize in Physics
