@@ -26,4 +26,4 @@ latest_posts:
 
 I'm a PhD student at [CentraleSupélec](https://www.centralesupelec.fr) within the cancer data science unit under the supervision of Paul-Henry Cournède and Veronique Le Tort.
 
-My research interests include machine learning, causal inference, survival analysis and uncertainty quntification and their applications to healthcare.
+My research interests include machine learning, causal inference, survival analysis and uncertainty quantification and their applications to healthcare.
