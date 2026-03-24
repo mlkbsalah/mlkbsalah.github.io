@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -459,6 +466,11 @@ ninja.data = [{
           description: "This course covers concepts in parametric statistics, with a focus on the linear model, as well as nonparametric statistics.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/advanced_statistics/";
+            },},{id: "teachings-coding-weeks",
+          title: 'coding weeks',
+          description: "2 week intensive coding bootcamp",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/coding_weeks/";
             },},{
         id: 'social-cv',
         title: 'CV',
