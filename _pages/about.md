@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student at [CentraleSupélec](https://www.centralesupelec.fr) within the cancer data science unit under the supervision of [Paul-Henry Cournède](https://scholar.google.com/citations?hl=fr&user=LGr1sroAAAAJ&view_op=list_works&sortby=pubdate) and [Veronique Letort](https://scholar.google.com/citations?hl=fr&user=udW0SRoAAAAJ&view_op=list_works&sortby=pubdate).
+I'm a PhD student at [CentraleSupélec](https://www.centralesupelec.fr) within the Cancer Data Science Unit - INSERM (U1361) under the supervision of [Paul-Henry Cournède](https://scholar.google.com/citations?hl=fr&user=LGr1sroAAAAJ&view_op=list_works&sortby=pubdate) and [Veronique Letort](https://scholar.google.com/citations?hl=fr&user=udW0SRoAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research interests include probabilistic machine learning, causal inference, survival analysis and uncertainty quantification and their applications to healthcare.
 
