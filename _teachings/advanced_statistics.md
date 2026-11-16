@@ -18,12 +18,12 @@ By the end of this course, you will be able to:
 
 ## Detailed Course Schedule
 
-| Session | Content |
-|---------|---------|
+| Session              | Content                                                                                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lecture 1** (1.5h) | Course organization and grading policy, General introduction, Introduction to Chapter 1: The Linear Model, Parameter estimation and estimator properties |
-| **Lecture 2** (3h) | Linear model: Distribution of estimators, confidence intervals, and hypothesis testing |
-| **Lecture 3** (3h) | Linear model: Model validation, model selection |
-| **Lecture 4** (3h) | Linear model lab session |
-| **Lecture 5** (3h) | Regularization of linear models (1.5h), Linear model tutorial |
-| **Lecture 6** (3h) | Nonparametric statistics: Introduction and projection estimators for density |
-| **Lecture 7** (3h) | Kernel methods for density estimation |
+| **Lecture 2** (3h)   | Linear model: Distribution of estimators, confidence intervals, and hypothesis testing                                                                   |
+| **Lecture 3** (3h)   | Linear model: Model validation, model selection                                                                                                          |
+| **Lecture 4** (3h)   | Linear model lab session                                                                                                                                 |
+| **Lecture 5** (3h)   | Regularization of linear models (1.5h), Linear model tutorial                                                                                            |
+| **Lecture 6** (3h)   | Nonparametric statistics: Introduction and projection estimators for density                                                                             |
+| **Lecture 7** (3h)   | Kernel methods for density estimation                                                                                                                    |

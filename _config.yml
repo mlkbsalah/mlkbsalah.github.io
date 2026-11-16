@@ -4,9 +4,9 @@
 
 title: Malek Ben Salah # the website title (if blank, full name will be used instead)
 first_name: Malek
-middle_name: 
+middle_name:
 last_name: Ben Salah
-contact_note: 
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Malek Ben Salah, sharing research, projects, and articles on machine learning, statistics, and software engineering.
 footer_text: >
